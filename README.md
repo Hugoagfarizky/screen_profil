@@ -1,4 +1,4 @@
-# Profil â€” Aplikasi Flutter
+# Profil — Aplikasi Flutter
 
 Aplikasi profil pribadi berbasis Flutter untuk **tugas individu Mata Kuliah Teknologi Berkembang 2026/2027**, Departemen Inovasi Digital, Institut Teknologi Sepuluh Nopember.
 
@@ -31,14 +31,14 @@ Semua data ada di **`lib/data/profil_data.dart`**. Cukup ubah nilai di kelas `Pr
 
 ```
 lib/
-â”œâ”€â”€ main.dart                  entry point
-â”œâ”€â”€ data/profil_data.dart      SEMUA data diri ada di sini
-â”œâ”€â”€ screens/profile_screen.dart
-â”œâ”€â”€ theme/app_theme.dart       warna dan tipografi
-â””â”€â”€ widgets/                   hero, about, foto, marquee, nav, komponen
+├── main.dart                  entry point
+├── data/profil_data.dart      SEMUA data diri ada di sini
+├── screens/profile_screen.dart
+├── theme/app_theme.dart       warna dan tipografi
+└── widgets/                   hero, about, foto, marquee, nav, komponen
 assets/
-â”œâ”€â”€ images/                    avatar dan foto
-â””â”€â”€ fonts/                     Outfit & Inter
+├── images/                    avatar dan foto
+└── fonts/                     Outfit & Inter
 test/profile_screen_test.dart
 NASKAH_VIDEO.md                naskah presentasi tugas
 ```
